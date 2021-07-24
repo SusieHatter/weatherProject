@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Suez+One&display=swap");
+
+:root {
+  --dark-blue: #006d77;
+  --light-blue: #83c5be;
+  --white: #edf6f9;
+  --light-pink: #ffddd2;
+  --pink: #e29578;
+}
+
+body {
+  font-family: "Noto Sans";
+  background-color: var(--light-blue);
+}
+
+h1 {
+  font-family: "Suez One";
+}
